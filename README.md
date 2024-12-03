@@ -1,13 +1,25 @@
 # 🚀 FreeCursorAI - Akses VIP Cursor GRATIS!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/FreeCursorAI?style=social)](https://github.com/yourusername/FreeCursorAI/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/FreeCursorAI?style=social)](https://github.com/yourusername/FreeCursorAI/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/FreeCursorAI)](https://github.com/yourusername/FreeCursorAI/issues)
-[![Security Status](https://img.shields.io/badge/security-verified-brightgreen)](https://github.com/yourusername/FreeCursorAI/security)
+[![Security Status](https://img.shields.io/badge/security-verified-brightgreen)](https://github.com/FreeCursorAI/security)
 [![Virus Total](https://img.shields.io/badge/VirusTotal-Clean-success)](https://www.virustotal.com/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Downloads](https://img.shields.io/badge/downloads-1k%2B-blue)]()
 
-## 🎁 KABAR GEMBIRA! 
-Dapatkan akses VIP GRATIS selama 15 hari dengan menggunakan kode referral! Ajak teman kamu dan nikmati fitur premium bersama-sama! 
+## 🎁 PROMO SPESIAL! 
+Dapatkan DISKON GILA 90% untuk akses VIP Cursor! 
+
+### 💰 Perbandingan Harga:
+| Fitur | Harga Normal | HARGA PROMO (90% OFF)! |
+|-------|--------------|----------------------|
+| 1 Bulan | Rp 250.000 | **Rp 25.000** |
+| 3 Bulan | Rp 700.000 | **Rp 70.000** |
+| 1 Tahun | Rp 2.500.000 | **Rp 250.000** |
+
+### 🎁 BONUS SPESIAL! 
+- ⚡ Dapat 15 hari VIP GRATIS dengan kode referral
+- 💎 Akses semua fitur premium
+- 🎯 Garansi kepuasan 100%
+- 🔄 Update seumur hidup
 
 ## 🛡️ Keamanan Terjamin
 - ✅ 100% Aman dan Bebas Virus

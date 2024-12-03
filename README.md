@@ -53,8 +53,8 @@ FreeCursorAI adalah solusi terpercaya untuk mengakses fitur VIP Cursor secara GR
 - Git terinstall
 
 ## 🤝 Bergabung dengan Komunitas
-- 💬 [Join Discord](https://discord.gg/freecursorai)
-- 📱 [Grup Telegram](https://t.me/freecursorai)
+- 💬 [Grup Telegram Utama](https://t.me/KiworaID)
+- 📱 [Channel Telegram Updates](https://t.me/KiworaID_Channel)
 - 📺 [YouTube Tutorial](https://youtube.com/@freecursorai)
 
 ## 🌟 Testimoni Pengguna
@@ -78,8 +78,8 @@ MIT License - [Lihat LICENSE](LICENSE)
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/FreeCursorAI&type=Date)](https://star-history.com/#yourusername/FreeCursorAI&Date)
 
 ## 📞 Hubungi Kami
-- 💬 Discord: [FreeCursorAI Server](https://discord.gg/freecursorai)
+- 💬 Telegram: [@KiworaID](https://t.me/KiworaID)
 - 📧 Email: support@freecursorai.com
-- 🐦 Twitter: [@FreeCursorAI](https://twitter.com/FreeCursorAI)
+- 📢 Channel: [@KiworaID_Channel](https://t.me/KiworaID_Channel)
 
 #### 🤝 Mari bergabung dan nikmati coding yang lebih produktif bersama FreeCursorAI!

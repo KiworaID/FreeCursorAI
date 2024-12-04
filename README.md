@@ -111,7 +111,7 @@ MIT License - [Lihat LICENSE](LICENSE)
 
 ## 🌟 Trending Growth
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/FreeCursorAI&type=Date)](https://star-history.com/#yourusername/FreeCursorAI&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KiworaID/FreeCursorAI&type=Date)](https://star-history.com/KiworaID/FreeCursorAI&Date)
 
 ## 📞 Hubungi Kami
 - 💬 Telegram: [@KiworaID](https://t.me/KiworaID)

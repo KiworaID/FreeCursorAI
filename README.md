@@ -92,8 +92,8 @@ FreeCursorAI adalah solusi terpercaya untuk mengakses fitur VIP Cursor secara GR
 - Git terinstall
 
 ## 🤝 Bergabung dengan Komunitas
-- 💬 [Telegram](https://t.me/KiworaID)
-- 📱 [Channel Telegram Updates](https://t.me/KiworaID_Channel)
+- [Telegram](https://t.me/KiworaID)
+- [Channel Telegram Updates](https://t.me/KiworaID_Channel)
 
 ## 🌟 Testimoni Pengguna
 > "Awalnya ragu, tapi setelah pakai FreeCursorAI coding jadi jauh lebih cepat. Worth it banget!" - @fadhildev
@@ -102,7 +102,6 @@ FreeCursorAI adalah solusi terpercaya untuk mengakses fitur VIP Cursor secara GR
 
 > "Baru seminggu pakai udah kerasa bedanya. Produktivitas naik drastis!" - @devina_p 
 
-> "Setup gampang, performa mantap. Recommended buat yang mau upgrade skill coding!" - @zaki_dev
 
 ## 📢 Ajak Teman, Dapat Benefit!
 1. 🎁 Kamu dapat 15 hari VIP GRATIS
@@ -121,7 +120,7 @@ MIT License - [Lihat LICENSE](LICENSE)
 
 ## 📞 Hubungi Kami
 - 💬 Telegram: [@KiworaID](https://t.me/KiworaID)
-- 📧 Email: support@freecursorai.com
+- 📧 Email: kenzhereal@gmail.com
 - 📢 Channel: [@KiworaID_Channel](https://t.me/KiworaID_Channel)
 
 #### 🤝 Mari bergabung dan nikmati coding yang lebih produktif bersama FreeCursorAI!

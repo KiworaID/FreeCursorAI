@@ -78,7 +78,6 @@ Dokumentasi lengkap tersedia di:
 
 ## Komunitas
 Bergabung dengan komunitas kami:
-- [Telegram Group](https://t.me/KiworaID)
 - [Channel Update](https://t.me/KiworaID_Channel)
 
 ## Dukungan

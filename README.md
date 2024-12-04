@@ -5,8 +5,14 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Downloads](https://img.shields.io/badge/downloads-1k%2B-blue)]()
 
+## 🎁 KODE REFERRAL RESMI
+```
+https://cursor.jeter.eu.org?p=d6b8b69b1cf7170dab57345a62fba773
+```
+⚡ Copy kode di atas dan paste di browser untuk dapat VIP!
+
 ## 🎁 PROMO SPESIAL! 
-Dapatkan DISKON GILA 90% untuk akses VIP Cursor! 
+Dapatkan DISKON 90% untuk akses VIP Cursor! 
 
 ### 💰 Perbandingan Harga:
 | Paket | Harga Normal | HARGA PROMO (90% OFF)! | Hemat |

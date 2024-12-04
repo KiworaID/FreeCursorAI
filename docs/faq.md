@@ -1,74 +1,57 @@
-# ❓ Frequently Asked Questions (FAQ)
+# Pertanyaan yang Sering Diajukan (FAQ)
 
-## 🔰 Pertanyaan Umum
+## Umum
+### Apa itu FreeCursorAI?
+FreeCursorAI adalah platform yang memberikan akses ke fitur premium Cursor IDE dengan harga yang terjangkau. Platform ini dirancang untuk meningkatkan produktivitas pengembangan melalui integrasi AI.
 
-### Q: Apa itu Cursor?
-A: Cursor adalah IDE (Integrated Development Environment) berbasis AI yang membantu developer menulis kode lebih cepat dan efisien dengan bantuan AI.
+### Apakah FreeCursorAI aman digunakan?
+Ya, FreeCursorAI 100% aman:
+- Diverifikasi oleh VirusTotal
+- Kode sumber terbuka
+- Tanpa malware/spyware
+- Tidak mengumpulkan data pribadi
 
-### Q: Apakah Cursor benar-benar gratis?
-A: Cursor memiliki versi gratis dan berbayar (VIP). Repository ini membahas cara mengakses fitur VIP secara gratis untuk tujuan edukasi.
+## Lisensi dan Aktivasi
+### Bagaimana cara mengaktifkan lisensi?
+1. Dapatkan kode referral yang valid
+2. Kunjungi halaman aktivasi
+3. Ikuti panduan instalasi
+4. Verifikasi aktivasi
 
-### Q: Apakah aman menggunakan metode ini?
-A: Kami menyarankan untuk selalu menggunakan produk resmi dan berbayar untuk mendukung pengembang. Metode ini hanya untuk pembelajaran.
+### Berapa lama masa berlaku lisensi?
+- Paket Bulanan: 30 hari
+- Paket Tahunan: 365 hari
+- Bonus referral: +15 hari per referral
 
-## 💎 Fitur VIP
+## Teknis
+### Apa persyaratan sistem minimum?
+- OS: Windows/Mac/Linux
+- RAM: 4GB minimum
+- Koneksi internet stabil
+- Git terinstal
 
-### Q: Apa saja fitur VIP Cursor?
-A: Fitur VIP meliputi:
-- Akses ke model AI yang lebih canggih
-- Kemampuan generate kode yang lebih baik
-- Fitur debugging AI
-- Integrasi GitHub yang lebih lengkap
-- Dan banyak lagi
+### Bagaimana jika terjadi masalah teknis?
+1. Periksa [Panduan Troubleshooting](troubleshooting.md)
+2. Hubungi dukungan teknis di [@KiworaID](https://t.me/KiworaID)
+3. Laporkan masalah di repositori GitHub
 
-### Q: Berapa lama fitur VIP bisa digunakan?
-A: Durasi akses tergantung pada metode yang digunakan. Silakan cek panduan untuk informasi detail.
+## Pembayaran
+### Metode pembayaran apa yang tersedia?
+Kami menerima berbagai metode pembayaran termasuk:
+- Kartu kredit/debit
+- Transfer bank
+- E-wallet
 
-## 🛠️ Teknikal
+### Bagaimana kebijakan refund?
+Kami menyediakan garansi kepuasan 100% dalam 7 hari pertama penggunaan.
 
-### Q: Cursor tidak bisa dibuka setelah instalasi, apa solusinya?
-A: Coba langkah berikut:
-1. Restart komputer
-2. Reinstall Cursor
-3. Periksa antivirus/firewall
-4. Jalankan sebagai administrator
+## Dukungan
+### Di mana saya bisa mendapatkan bantuan?
+- Telegram: [@KiworaID](https://t.me/KiworaID)
+- Email: kenzhereal@gmail.com
+- Channel: [@KiworaID_Channel](https://t.me/KiworaID_Channel)
 
-### Q: Bagaimana cara update Cursor?
-A: Cursor biasanya update otomatis. Untuk update manual:
-1. Buka Settings
-2. Klik About
-3. Cek Update
-
-### Q: Apakah bisa menggunakan Cursor offline?
-A: Tidak, Cursor membutuhkan koneksi internet untuk fitur AI-nya.
-
-## 🔒 Keamanan
-
-### Q: Apakah kode saya aman?
-A: Cursor tidak menyimpan kode Anda di server mereka. Semua proses dilakukan secara lokal.
-
-### Q: Bagaimana dengan privasi data?
-A: Cursor mengirim snippet kode ke AI untuk analisis, tapi tidak menyimpannya.
-
-## 🤝 Kontribusi
-
-### Q: Bagaimana cara berkontribusi?
-A: Lihat [CONTRIBUTING.md](../CONTRIBUTING.md) untuk panduan lengkap.
-
-### Q: Dimana melaporkan bug?
-A: Buat issue baru di GitHub repository ini.
-
-## 📞 Support
-
-### Q: Dimana bisa mendapatkan bantuan?
-A: Anda bisa:
-1. Baca dokumentasi ini
-2. Buat issue di GitHub
-3. Hubungi komunitas Cursor
-4. Email support resmi Cursor
-
-### Q: Ada channel komunikasi lain?
-A: Ikuti kami di:
-- GitHub Discussions
-- Discord Community
-- Telegram Group 
+### Apakah ada komunitas pengguna?
+Ya, Anda dapat bergabung dengan komunitas kami di:
+- [Grup Telegram](https://t.me/KiworaID)
+- [Channel Update](https://t.me/KiworaID_Channel) 

@@ -9,11 +9,16 @@
 Dapatkan DISKON GILA 90% untuk akses VIP Cursor! 
 
 ### 💰 Perbandingan Harga:
-| Fitur | Harga Normal | HARGA PROMO (90% OFF)! |
-|-------|--------------|----------------------|
-| 1 Bulan | Rp 250.000 | **Rp 25.000** |
-| 3 Bulan | Rp 700.000 | **Rp 70.000** |
-| 1 Tahun | Rp 2.500.000 | **Rp 250.000** |
+| Paket | Harga Normal | HARGA PROMO (90% OFF)! | Hemat |
+|-------|--------------|----------------------|--------|
+| Bulanan | $20/bulan | **$2/bulan** | $18/bulan |
+| Tahunan | $16/bulan<br>($192/tahun) | **$1.6/bulan**<br>(**$19.2/tahun**) | $172.8/tahun |
+
+### 💎 Kenapa Pilih Paket Tahunan?
+- 🔥 Lebih hemat 20% dibanding harga bulanan
+- 💰 Hemat total $172.8 per tahun
+- 🎁 Bonus 15 hari VIP dengan referral
+- 🚀 Akses premium tanpa putus
 
 ### 🎁 BONUS SPESIAL! 
 - ⚡ Dapat 15 hari VIP GRATIS dengan kode referral
